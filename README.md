@@ -1,5 +1,5 @@
 # About coffee docs 
-The goal of coffee docs is to train aspiring baristas, whether at home or in a cafe, in coffee knowledge and coffee equipment operations. Although coffee docs targets beginners, additional resources for experienced coffee enthusiasts supplement each topic and can be be found in the Advanced coffee knowledge section. On coffee docs, you'll learn about the following topics: 
+Coffee docs is a hub of documentation about coffee knowledge and operations maintained by coffee enthusiasts for coffee enthusiasts. Coffee docs is open-source. To contribute, create a branch, commit, and make pull request. Current documentation includes: 
 
 Coffee basics<br>
 &nbsp; Where coffee comes from       
