@@ -11,3 +11,4 @@ Coffee basics<br>
 Advanced coffee knowledge<br>
 &nbsp; Species and varietals<br> 
 &nbsp; Countries and regions<br>
+&nbsp; Other processing methods<br>
