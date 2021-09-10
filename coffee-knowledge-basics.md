@@ -37,16 +37,8 @@ The place coffee is grown–its **origin**–also matters. Because coffee plants
 
 <!--Add isolated image titled "The coffee belt" here--> 
 
-<a name="production">**Production**</a><br>
-Once a crop of coffee ripens, farmers must prepare it for consumption. Coffee goes through these stages before it resembles the coffee beans at cafes and supermarkets: 
-
-1. **Picking**<br> 
-    Farmers pick the ripe cherries off each coffee plant.  
-2. **Processing**<br>
-    Farmers extract the seeds from the picked coffee cherries procedure called processing. These are the most common processing methods   
-
-3. **Processing** refers...
-4. Roasting 
+<a name="production">**Processing**</a><br>
+Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers must extract the coffee seeds from the cherries through a procdure called **processing**. The most common method of processing is called   
 
 ## Science of coffee brewing  
 
