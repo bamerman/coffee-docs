@@ -38,7 +38,7 @@ The place coffee is grown–its **origin**–also matters. Because coffee plants
 <!--Add isolated image titled "The coffee belt" here--> 
 
 <a name="production">**Processing**</a><br>
-Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers extract the coffee seeds from the cherries through a procdure called **processing**. The most common method of processing is **washed processing**, which works in these steps:  
+Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers must safely extract the coffee seeds from the cherries through a procdure called **processing**. The most common method of processing is **washed processing**, which works in these steps:  
 1. The cherries pass through a de-pulper machine that removes the outer layer called the pulp.
 2. The de-pulped cherries ferment in large vats until their mucilage layers detoriate.
 3. Farmers rinse and agitate the fermented cherries to remove any remaining mucilage. 
@@ -46,6 +46,11 @@ Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers extr
 5. The dry cherries pass through a mill that removes the skin and parchment layers. 
 >For advanced information on processing, see [Other processing methods]().
 
+What started as a cherry, is now a seed that resembles a coffee bean but paler. Freshly processed coffee is called green coffee, and it must go through one last production stage before it resembles the coffee you're familiar wiht and is ready to be made into a delicious cup of coffee.  
+**Roasting**
+Coffee roasting refers to the cooking of green coffee beans to release their full flavor potential. Coffee roasting is very complex and nuanced, but these are the most important things you need to know: 
+-
+To learn more about coffee roasting, see [The art and science of coffee roasting](). 
 ## Science of coffee brewing  
 
 ## Further reading 
