@@ -38,7 +38,14 @@ The place coffee is grown–its **origin**–also matters. Because coffee plants
 <!--Add isolated image titled "The coffee belt" here--> 
 
 <a name="production">**Processing**</a><br>
-Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers must extract the coffee seeds from the cherries through a procdure called **processing**. The most common method of processing is called   
+Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers extract the coffee seeds from the cherries through a procdure called **processing**. The most common method of processing is **washed processing**, which works in these steps:  
+1. The cherries pass through a de-pulper machine that removes the outer layer called the pulp.
+2. The de-pulped cherries ferment in large vats until their mucilage layers detoriate.
+3. Farmers rinse and agitate the fermented cherries to remove any remaining mucilage. 
+4. Farmers dry and rake the cherries on raised cement beds.
+5. The dry cherries pass through a mill that removes the skin and parchment layers. 
+
+<!-- insert diagram for the layers of a coffee cherry--> 
 
 ## Science of coffee brewing  
 
