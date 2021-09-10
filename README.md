@@ -7,6 +7,7 @@ Coffee basics<br>
 &nbsp; &nbsp; Origion<br>
 &nbsp; &nbsp; Processing<br>
 &nbsp; &nbsp; Roasting<br>
+&nbsp; How to brew coffee
 Advanced coffee knowledge<br>
 &nbsp; Species and varietals<br> 
 &nbsp; Countries and regions<br>
