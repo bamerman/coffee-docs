@@ -44,8 +44,7 @@ Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers extr
 3. Farmers rinse and agitate the fermented cherries to remove any remaining mucilage. 
 4. Farmers dry and rake the cherries on raised cement beds.
 5. The dry cherries pass through a mill that removes the skin and parchment layers. 
-
-<!-- insert diagram for the layers of a coffee cherry--> 
+>For advanced information on processing, see [Other processing methods]().
 
 ## Science of coffee brewing  
 
