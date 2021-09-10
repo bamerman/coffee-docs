@@ -1,5 +1,5 @@
 # About coffee docs 
-The goal of coffee docs is to train aspiring baristas in coffee knowledge and coffee equipment operations. Although coffee docs targets new baristas, additional resources for experienced coffee enthusiasts supplement each topic. On coffee docs, you'll learn about the following topics: 
+The goal of coffee docs is to train aspiring baristas, whether at home or in a cafe, in coffee knowledge and coffee equipment operations. Although coffee docs targets beginners, additional resources for experienced coffee enthusiasts supplement each topic and can be be found in the Advanced coffee knowledge section. On coffee docs, you'll learn about the following topics: 
 
 Coffee basics<br>
 &nbsp; Where coffee comes from       
