@@ -1,4 +1,5 @@
 # Where coffee comes from   
+Despite its ubiquity, coffee is the result of an elaborate production process. In this tutorial, you'll learn about the steps that bring coffee to supermarkets and cafes around the world. 
 
 <img src="where-coffee-comes-from/coffee-plant-anatomy.png" 
      alt="The anatomy of a coffee plant"
