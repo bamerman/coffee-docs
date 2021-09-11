@@ -46,11 +46,14 @@ Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers must
 5. The dry cherries pass through a mill that removes the skin and parchment layers. 
 >For advanced information on processing, see [Other processing methods]().
 
-What started as a cherry, is now a seed that resembles a coffee bean but paler. Freshly processed coffee is called green coffee, and it must go through one last production stage before it resembles the coffee you're familiar wiht and is ready to be made into a delicious cup of coffee.  
+What started as a cherry, is now a seed that resembles a pale coffee bean. This freshly processed coffee bean is called green coffee, and it must go through one last production stage before it's ready to be made into a delicious cup of coffee.  
+
 **Roasting**
-Coffee roasting refers to the cooking of green coffee beans to release their full flavor potential. Coffee roasting is very complex and nuanced, but these are the most important things you need to know: 
-- Drum roasters apply heat and spin to green coffee  
-- adfa
+Coffee roasting refers to the cooking of green coffee beans to release their full flavor potential. Coffee roasting is a complex craft, but these are the basics you should know: 
+- **Drum roasters** apply uniform heat to the green coffee.  
+- The longer coffee roasts, the darker it gets. 
+- In general, lighter roasted coffee retains more of its natural fruity and floral flavors, while darker coffee carmelizes into nutty, chocolatey flavors. 
+- The slightest changes in time and temperature drastically affect how a coffee will taste. 
 
 > For advanced information on coffee roasting, see [Art and science of coffee roasting](). 
 ## Science of coffee brewing  
