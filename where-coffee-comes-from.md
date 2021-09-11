@@ -1,5 +1,4 @@
 # Where coffee comes from   
-Coffee comes from the seeds within the cherries of a coffee plant. 
 
 <img src="where-coffee-comes-from/coffee-plant-anatomy.png" 
      alt="The anatomy of a coffee plant"
@@ -8,6 +7,8 @@ Coffee comes from the seeds within the cherries of a coffee plant.
      align="right"/>
 
 **Coffee plants**<br>
+Coffee comes from the seeds within the cherries of a coffee plant. 
+
 Coffee plants come in different **species** and **varietals** that produce coffee with unique sensory characteristics. **Coffea arabica** and **Coffea robusta** are the most common species of coffee plants, with Coffea arabaca being more sought after because of its superior aroma and flavor. The varietals of each species of coffee plant also affect the way coffee will taste. 
  
 **Origin**<br>
