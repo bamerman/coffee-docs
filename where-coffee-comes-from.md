@@ -26,4 +26,4 @@ Coffee roasting refers to the cooking of green coffee beans to release their ful
 - The longer coffee roasts, the darker it gets. 
 - In general, lighter roasted coffee retains more of its natural fruity and floral flavors, while darker coffee carmelizes into nutty, chocolatey flavors. 
 - The slightest changes in time and temperature drastically affect how a coffee will taste. 
-> To learn more about coffee roasting, see [Art and science of coffee roasting](). 
+> To learn more about coffee roasting, see [Advanced coffee roasting](). 
