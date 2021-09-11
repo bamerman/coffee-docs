@@ -29,7 +29,7 @@ Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers must
 
 What started as a cherry, is now a seed that resembles a pale coffee bean. This freshly processed coffee bean is called green coffee, and it must go through one last production stage before it's ready to be made into a delicious cup of coffee. 
 
->**Note:** To learn more about coffee processing, see [Other processing methods]().
+>**Note:** To learn more about coffee processing, see [Coffee processing methods]().
 
 <img src="where-coffee-comes-from/drum-roaster.png" 
      alt="The anatomy of a coffee plant"
