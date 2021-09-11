@@ -9,11 +9,9 @@ Coffee comes from the seeds within the cherries of a coffee plant.
 
 **Coffee plants**<br>
 Coffee plants come in different **species** and **varietals** that produce coffee with unique sensory characteristics. **Coffea arabica** and **Coffea robusta** are the most common species of coffee plants, with Coffea arabaca being more sought after because of its superior aroma and flavor. The varietals of each species of coffee plant also affect the way coffee will taste. 
-> To learn more about coffee plants, see [Species and varietals]().  
  
 **Origin**<br>
 The place coffee is grown–its **origin**–also matters. Because coffee plants thrive in tropical climates, most coffee is grown in a ring of regions near the equator called the **coffee belt**. Each of the places within the coffee belt also affect the way coffee tastes, which is why coffee is often named after its origin. For example, *Sumatra* signals coffee that will taste earthy and zesty; *Ethiopa Yirgacheffe* signals sweet and floral. 
-> To learn more about origin, see [Countries and regions](). 
 
 <img src="where-coffee-comes-from/coffee-cherry-anatomy.png" 
      alt="The anatomy of a coffee plant"
@@ -28,7 +26,7 @@ Once a crop of coffee ripens, farmers pick the ripe cherries. Next, farmers must
 3. Farmers rinse and agitate the fermented cherries to remove any remaining mucilage. 
 4. Farmers dry and rake the cherries on raised cement beds.
 5. The dry cherries pass through a mill that removes the skin and parchment layers. 
->To learn more about processing, see [Other processing methods]().
+>To learn more about coffee processing, see [Other processing methods]().
 
 What started as a cherry, is now a seed that resembles a pale coffee bean. This freshly processed coffee bean is called green coffee, and it must go through one last production stage before it's ready to be made into a delicious cup of coffee.  
 
