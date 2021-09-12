@@ -6,6 +6,7 @@ Despite containing only two ingredients, the interaction between ground coffee a
 
 In addition to walking you through the coffee brewing process, this document explains the variables of coffee brewing and how they affect the way coffee tastes. 
 
-**Coffee brewing overview**
+**Coffee brewing overview**<br> 
 Coffee brewing takes on many different forms called brewing methods, but most brewing methods involve these fundamental steps: 
-1.
+1. **Grind** coffee beans into smaller particles 
+2.  
