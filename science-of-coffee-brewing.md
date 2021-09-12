@@ -10,10 +10,10 @@ This document explains the basic steps of coffee brewing and the variables that 
 Brewing coffee involves three simple steps: 
 1. A coffee grinder breaks down coffee beans into smaller particles called **coffee grounds**. 
 2. Hot water contacts the coffee grounds. 
-3. The resulting mixture of hot water and coffee grounds is filtered. 
+3. The hot water and coffee grounds mixture is filtered. 
 
 **Brewing methods**<br> 
-You can perform the steps of the brewing process through a variety of **brewing methods**. Different brewing methods uniquely affect coffee brewing variables and change the way coffee tastes. Some common brewing methods include: 
+You can perform the steps of the brewing process through a variety of **brewing methods**. Different brewing methods uniquely affect how coffee tastes by interacting with the coffee brewing variables differently. Some common brewing methods include: 
 - Drip:
 - Pour over:
 - French press:
