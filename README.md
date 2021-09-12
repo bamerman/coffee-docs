@@ -3,4 +3,4 @@ The coffee docs respository houses everything I've learned and documented about 
 
 [Coffee basics]()<br>
 &nbsp; [Where coffee comes from](where-coffee-comes-from.md)<br>
-&nbsp; [Science of coffee brewing]()<br>
+&nbsp; [Science of coffee brewing](science-of-coffee-brewing.md)<br>
