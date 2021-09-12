@@ -13,10 +13,10 @@ Brewing coffee involves three simple steps:
 3. The hot water and coffee grounds mixture is filtered. 
 
 **Brewing methods**<br> 
-You can perform the steps of the brewing process through a variety of **brewing methods**. Different brewing methods uniquely affect how coffee tastes by interacting with the coffee brewing variables differently. Some common brewing methods include: 
-- Drip:
-- Pour over:
-- French press:
+You can perform the steps of the brewing process through a variety of **brewing methods**, which uniquely affect how coffee tastes. Some common brewing methods include: 
+- **Drip**
+- **Pour over**
+- **French press**
 
 ## Variables 
 **Strength** 
