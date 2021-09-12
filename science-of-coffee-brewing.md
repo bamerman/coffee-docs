@@ -1,6 +1,6 @@
 # Science of coffee brewing 
 
-A cup of coffee is simply coffee particles dissolved in water. In scientific terms, a cup of coffee is a solution comprised of coffee particles (the solute) and water (the solvent).
+A cup of coffee is simply particles of coffee dissolved in water. In scientific terms, a cup of coffee is a solution comprised of coffee particles (the solute) and water (the solvent).
 
 The interaction between coffee particles and water is called **coffee brewing**. Despite involving only two ingredients, coffee brewing is a complex chemical process with many delicate variables.
 
