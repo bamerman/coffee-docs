@@ -4,7 +4,7 @@ A cup of coffee is a solution comprised of coffee particles (the solute) and wat
 
 The process of making a cup of coffee is called **coffee brewing**. Despite involving only two ingredients, coffee brewing involves a complex reaction with many delicate variables.
 
-In this document, you'll learn about coffee brewing and the variables of coffee brewing that influence the way coffee tastes. 
+In this document, you'll learn about coffee brewing and the variables that affect how coffee tastes. 
 
 ## Basics of coffee brewing     
 Brewing coffee involves three simple steps: 
