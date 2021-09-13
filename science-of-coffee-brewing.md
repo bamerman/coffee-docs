@@ -20,9 +20,9 @@ You can brew coffee with a variety of **brewing methods**, which uniquely affect
 ## Variables 
 Brewing coffee is simple, but brewing *good* coffee is not. Five variables interact with the coffee brewing process, which you'll learn about next. Even the slightest changes to these variables dramatically affect the way coffee tastes. 
 
-**Strength**<br>
-**Extraction**<br> 
-**Grind size**<br> 
-**Time**<br> 
-**Temperature**<br> 
-**Water quality**<br> 
+- **Strength**<br>
+- **Extraction**<br> 
+- **Grind size**<br> 
+- **Time**<br> 
+- **Temperature**<br> 
+- **Water quality**<br> 
