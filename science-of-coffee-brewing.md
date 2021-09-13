@@ -19,9 +19,9 @@ You can perform the steps of the brewing process through a variety of **brewing 
 - **French press**
 
 ## Variables 
-**Strength** 
-**Extraction** 
-**Grind size** 
-**Time** 
-**Temperature** 
-**Water quality** 
+**Strength**<br>
+**Extraction**<br> 
+**Grind size**<br> 
+**Time**<br> 
+**Temperature**<br> 
+**Water quality**<br> 
