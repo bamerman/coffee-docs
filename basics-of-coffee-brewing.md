@@ -1,4 +1,4 @@
-# Science of coffee brewing 
+# Basics of coffee brewing 
 
 A cup of coffee is a solution comprised of coffee particles (the solute) and water (the solvent).
 
@@ -6,7 +6,7 @@ The process of making a cup of coffee is called **coffee brewing**. Despite invo
 
 In this document, you'll learn about coffee brewing and the variables that affect how coffee tastes. 
 
-## Basics of coffee brewing     
+## Overview     
 Brewing coffee involves three simple steps: 
 1. A coffee grinder breaks down coffee beans into smaller particles called **coffee grounds**. 
 2. Hot water contacts the coffee grounds. 
@@ -18,9 +18,12 @@ You can brew coffee with a variety of **brewing methods**, which uniquely affect
 - The **french press** brewing method involves steeping coffee grounds in hot water for several minutes, then pressing a filter through the solution. 
 
 ## Variables 
-Brewing coffee is simple, but brewing *good* coffee is not. Five variables interact with the coffee brewing process, which you'll learn about next. Even the slightest changes to these variables dramatically affect the way coffee tastes. 
+Brewing coffee is simple, but brewing *good* coffee is not. Five variables interact with the coffee brewing process. Even the slightest changes to these variables dramatically affect the way coffee tastes. 
 
-- **Strength**<br>
+The major variables of coffee brewing are: 
+
+- **Ratio**<br> 
+The ratio 
 - **Extraction**<br> 
 - **Grind size**<br> 
 - **Time**<br> 
