@@ -18,14 +18,23 @@ You can brew coffee with a variety of **brewing methods**, which uniquely affect
 - The **french press** brewing method involves steeping coffee grounds in hot water for several minutes, then pressing a filter through the solution. 
 
 ## Variables 
-Brewing coffee is simple, but brewing *good* coffee is not. Five variables interact with the coffee brewing process. Even the slightest changes to these variables dramatically affect the way coffee tastes. 
+Brewing coffee is simple, but brewing *good* coffee is not. Five variables affect the coffee brewing process. Even the slightest changes to these variables dramatically affect the way coffee tastes. 
 
 The major variables of coffee brewing are: 
 
 - **Ratio**<br> 
-The ratio 
-- **Extraction**<br> 
+The ratio of coffee grounds to water affects how coffee tastes. In coffee brewing, this ratio–the amount of coffee grams per unit of water– is called a **brewing recipe**. To keep brewing recipes consistent, baristas use scales to measure coffee and water in grams and ounces. 
 - **Grind size**<br> 
+The particle size of ground coffee also affects how coffee tastes. Large **grind sizes** resist water; small grind sizes easily dissolve in water. Because grind size is a major brewing variable, baristas invest in high-quality coffee grinders that ensure a uniform grind size. 
 - **Time**<br> 
 - **Temperature**<br> 
 - **Water quality**<br> 
+
+## Putting it all together 
+But *how* do the variables of coffee brewing affect the way coffee tastes? 
+
+To answer this, you must understand how the brewing variables change these features of a brewed cup of coffee:
+
+-**Strength**<br>
+-**Total dissolved solids**<br>
+-**Extraction**<br> 
