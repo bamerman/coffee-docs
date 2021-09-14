@@ -4,11 +4,11 @@ A cup of coffee is a solution comprised of coffee particles (the solute) and wat
 
 The process of making a cup of coffee is called **coffee brewing**. Despite involving only two ingredients, coffee brewing is a complex process with several delicate variables.
 
-In this document, you'll learn about these aspects coffee brewing:
-- What is coffee brewing 
-- Variables of coffee brewing
-- Physical properties of brewed coffee  
-- Putting it all together 
+In this document, you'll learn:
+- [What is coffee brewing](#what-is-coffee-brewing) 
+- [Variables of coffee brewing](variables-of-coffee-brewing)
+- [Physical properties of brewed coffee](#physical-properties-of-brewed-coffee)  
+- [Putting it all together](#putting-it-all-together) 
 
 ## What is coffee brewing       
 Brewing coffee involves three simple steps: 
@@ -40,10 +40,31 @@ The physical properites of brewed coffee include:
 - **Strength:**
 - **Extraction:** 
 
-Strength and extracton are important because they determine how brewed coffee tastes. See the **flavor map** (figure: 1) below for the flavors associated with strength and extraction: 
+Strength and extracton are important because they determine how brewed coffee tastes. See the **flavor map** (Figure 1) below for the flavors associated with strength and extraction: 
 
 ## Putting it all together  
-The **flavor map** shows that appealing brewed coffee depends on finding optimal levels of strength and extraction. These optimal level change according to origin, roast, and personal preference. 
+The flavor map shows that appealing brewed coffee depends on finding optimal levels of strength and extraction. These optimal level change according to origin, roast, and personal preference. 
 
-To find optimal levels of strength and extracton for your coffee and preferences, use the flavor map and brewed coffee compass with these steps: 
+<img src="principles-of-coffee-brewing/flavor map.png" 
+     alt="flavor map"
+     width="350"
+     height="300"
+     align="right"/>
+     
+<img src="principles-of-coffee-brewing/flavor-compass.png" 
+     alt="flavor compass"
+     width="350"
+     height="300"
+     align="right"/>
+
+To find optimal levels of strength and extracton for your coffee and preferences, use the flavor map and **flavor compass** (Figure 2) in these steps: 
 1. Use the flavor map to find where your brew sits. That spot is the center of the coffee compass.
+2. Use the flavor compass to optimize strength. You can optimize strength in either of these ways: 
+ A. Use more coffee to make your coffee stronger.<br> 
+ B. Use less coffee to make your coffee weaker 
+3. Use the flavor compass to optimize extraction. You can optimize extraction in either of these ways:<br> 
+ A. Extract more: 
+  a. 
+ B. Extract less: 
+  a.
+Manipulating the variables 
