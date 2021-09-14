@@ -18,23 +18,23 @@ You can brew coffee with a variety of **brewing methods**, which uniquely affect
 - The **french press** brewing method involves steeping coffee grounds in hot water for several minutes, then pressing a filter through the solution. 
 
 ## Variables 
-Brewing coffee is simple, but brewing *good* coffee is not. Five variables affect the coffee brewing process. Even the slightest changes to these variables dramatically affect the way coffee tastes. 
+Five important variables are at play in the coffee brewing process:  
 
-The major variables of coffee brewing are: 
-
-- **Ratio**<br> 
-The ratio of coffee grounds to water affects how coffee tastes. In coffee brewing, this ratio–the amount of coffee grams per unit of water– is called a **brewing recipe**. To keep brewing recipes consistent, baristas use scales to measure coffee and water in grams and ounces. 
-- **Grind size**<br> 
-The particle size of ground coffee also affects how coffee tastes. Large **grind sizes** resist water; small grind sizes easily dissolve in water. Because grind size is a major brewing variable, baristas invest in high-quality coffee grinders that ensure a uniform grind size. 
-- **Time**<br> 
-- **Temperature**<br> 
-- **Water quality**<br> 
+- **Ratio**: The ratio of coffee grounds to water affects coffee brewing. For now, know that this ratio-weight of coffee per unit of water-is called a **brewing recipe**. To keep brewing recipes consistent, baristas use scales to weigh out coffee and water in grams or ounces. 
+- **Grind size:** The particle size of ground coffee affects brewing. For now, know that large **grind sizes** resist water, whereas small grind sizes easily dissolve in water. Because grind size is a major brewing variable, baristas invest in high-quality coffee grinders that ensure a uniform grind size. 
+- **Time:** How long water and coffee contact each other affects brewing. For now, know that the longer water contacts coffee grounds, the more water dissolves the coffee grounds. 
+- **Temperature:** Water temperature 
+- **Water quality:** 
 
 ## Putting it all together 
-But *how* do the variables of coffee brewing affect the way coffee tastes? 
+Even the slightest changes to the brewing variables dramatically changes the physical properties of brewed coffee.
 
-To answer this, you must understand how the brewing variables change these features of a brewed cup of coffee:
+The physical properites of brewed coffee include: 
 
 -**Strength**<br>
 -**Total dissolved solids**<br>
 -**Extraction**<br> 
+
+The physical properties of brewed coffee determine how it tastes. Good brewed coffee consists of optimal levels of strength, TDS, and extraction. These optimal levels change according to origin, roast, and personal preference. To find a strength, TDS, and extraction that is right for you, use the brewed coffee compass below. 
+
+To use the brewed coffee compass: 
