@@ -60,10 +60,15 @@ The flavor map shows that appealing brewed coffee depends on finding optimal lev
 To find optimal levels of strength and extracton for your coffee and preferences, use the flavor map and **flavor compass** (Figure 2) in these steps: 
 1. Use the flavor map to find where your brew sits. That spot is the center of the coffee compass.
 2. Use the flavor compass to optimize strength. You can optimize strength in either of these ways: 
- A. Use more coffee to make your coffee stronger.<br> 
- B. Use less coffee to make your coffee weaker 
-3. Use the flavor compass to optimize extraction. You can optimize extraction in either of these ways:<br> 
- A. Extract more:<br>
-  a.<br>
- B. Extract less: 
-  a.<br>
+&nbsp; A. Use more coffee to make brewed coffee stronger.<br> 
+&nbsp; B. Use less coffee to make brewed coffee weaker.<br>
+> **Notes:** To alter strength, adjust the weight of coffee used while keeping the amount of water the same. This will minimize the effect of other variables, such as 
+3. Use the flavor compass to optimize extraction. You can optimize extraction in one of two ways:<br> 
+&nbsp; A. Extract more:<br>
+&nbsp; &nbsp; a.<br>
+&nbsp; &nbsp; b.<br>
+&nbsp; &nbsp; c.<br>
+&nbsp; B. Extract less:<br> 
+&nbsp; &nbsp; a.<br>
+&nbsp; &nbsp; b.<br>
+&nbsp; &nbsp; c.<br>
