@@ -1,12 +1,14 @@
-# Coffee brewing basics 
+# Principles of coffee brewing  
 
 A cup of coffee is a solution comprised of coffee particles (the solute) and water (the solvent).
 
 The process of making a cup of coffee is called **coffee brewing**. Despite involving only two ingredients, coffee brewing is a complex process with several delicate variables.
 
-In this document, you'll learn about coffee brewing and the variables that affect how coffee tastes. 
+In this document, you'll learn about these features of coffee brewing:
+-Basics 
+-Variables 
 
-## Overview     
+## What coffee brewing is      
 Brewing coffee involves three simple steps: 
 1. A coffee grinder breaks down coffee beans into smaller particles called **coffee grounds**. 
 2. Hot water contacts the coffee grounds. 
