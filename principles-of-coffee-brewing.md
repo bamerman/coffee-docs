@@ -25,7 +25,7 @@ You can brew coffee with a variety of **brewing methods**, which uniquely affect
 Five important variables are at play in the coffee brewing process:  
 
 - **Ratio**: The ratio of coffee grounds to water affects coffee brewing. For now, know that this ratio-weight of coffee per unit of water-is called a **brewing recipe**. To keep brewing recipes consistent, baristas use scales to weigh out coffee and water in grams or ounces. 
-- **Grind size:** The particle size of ground coffee affects brewing. For now, know that large **grind sizes** resist water, whereas small grind sizes easily dissolve in water. Because grind size is a major brewing variable, baristas invest in high-quality coffee grinders that ensure a uniform grind size. 
+- **Grind size:** The particle size of ground coffee affects brewing. For now, know that large a **course grind** resists water, whereas a **fine grind** easily dissolve in water. Because grind size is a major brewing variable, baristas invest in high-quality coffee grinders that ensure a uniform grind size. 
 - **Time:** How long water and coffee contact each other affects brewing. For now, know that the longer water contacts coffee grounds, the more water dissolves the coffee grounds. 
 - **Temperature:** Water temperature affects brewing. For now, know that the hotter water is, the more aggressively it dissolves coffee. 
 - **Water quality:** The chemical makeup of water also affects brewing. For now, keep these two things in mind:<br> 
@@ -37,7 +37,7 @@ Even the slightest changes to the brewing variables dramatically changes the phy
 
 The physical properites of brewed coffee include: 
 
-- **Strength:**
+- **Strength:** 
 - **Extraction:** 
 
 Strength and extracton are important because they determine how brewed coffee tastes. See the **flavor map** (Figure 1) below for the flavors associated with strength and extraction: 
@@ -65,10 +65,9 @@ To find optimal levels of strength and extracton for your coffee and preferences
 > **Notes:** To alter strength, adjust the weight of coffee used while keeping the amount of water the same. This will minimize the effect of other variables, such as 
 3. Use the flavor compass to optimize extraction. You can optimize extraction in one of two ways:<br> 
 &nbsp; A. Extract more:<br>
-&nbsp; &nbsp; a.<br>
-&nbsp; &nbsp; b.<br>
-&nbsp; &nbsp; c.<br>
+&nbsp; &nbsp; a. Make grind finer. <br>
+&nbsp; &nbsp; b. Extend brew time. <br>
 &nbsp; B. Extract less:<br> 
-&nbsp; &nbsp; a.<br>
-&nbsp; &nbsp; b.<br>
-&nbsp; &nbsp; c.<br>
+&nbsp; &nbsp; a. Make grind courser.<br>
+&nbsp; &nbsp; b. Shorten brew time.<br>
+> Note: You can also change water temperature or chemical makeup; however, it is recommended that you keep these variables consistent. Most coffee professionals recommend filtered drinking water heated to 195-200 degrees Fahrenheit. 
