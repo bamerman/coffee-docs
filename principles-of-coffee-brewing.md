@@ -43,7 +43,7 @@ The physical properites of brewed coffee include:
 Strength and extracton are important because they determine how brewed coffee tastes. See the **flavor map** (figure: 1) below for the flavors associated with strength and extraction: 
 
 ## Putting it all together  
-The **flavor map** that appealing brewed coffee depends on finding optimal levels of strength and extraction. These optimal level change according to origin, roast, and personal preference. 
+The **flavor map** shows that appealing brewed coffee depends on finding optimal levels of strength and extraction. These optimal level change according to origin, roast, and personal preference. 
 
 To find optimal levels of strength and extracton for your coffee and preferences, use the flavor map and brewed coffee compass with these steps: 
 1. Use the flavor map to find where your brew sits. That spot is the center of the coffee compass.
