@@ -25,8 +25,10 @@ Five important variables are at play in the coffee brewing process:
 - **Ratio**: The ratio of coffee grounds to water affects coffee brewing. For now, know that this ratio-weight of coffee per unit of water-is called a **brewing recipe**. To keep brewing recipes consistent, baristas use scales to weigh out coffee and water in grams or ounces. 
 - **Grind size:** The particle size of ground coffee affects brewing. For now, know that large **grind sizes** resist water, whereas small grind sizes easily dissolve in water. Because grind size is a major brewing variable, baristas invest in high-quality coffee grinders that ensure a uniform grind size. 
 - **Time:** How long water and coffee contact each other affects brewing. For now, know that the longer water contacts coffee grounds, the more water dissolves the coffee grounds. 
-- **Temperature:** Water temperature 
-- **Water quality:** 
+- **Temperature:** Water temperature affects brewing. For now, know that the hotter water is, the more aggressively it dissolves coffee. 
+- **Water quality:** The chemical makeup of water also affects brewing. For now, keep these two things in mind:<br> 
+- Acidic water dissolves coffee more aggressively than basic water does. 
+- Water high in calcium and magnesium dissolves coffee more aggressiv
 
 ## Putting it all together 
 Even the slightest changes to the brewing variables dramatically changes the physical properties of brewed coffee.
@@ -39,4 +41,4 @@ The physical properites of brewed coffee include:
 
 The physical properties of brewed coffee determine how it tastes. Good brewed coffee consists of optimal levels of strength, TDS, and extraction. These optimal levels change according to origin, roast, and personal preference. To find a strength, TDS, and extraction that is right for you, use the brewed coffee compass below. 
 
-To use the brewed coffee compass: 
+Use the coffee compass according to these steps: 
