@@ -1,4 +1,4 @@
-# Basics of coffee brewing 
+# Coffee brewing basics 
 
 A cup of coffee is a solution comprised of coffee particles (the solute) and water (the solvent).
 
