@@ -63,8 +63,7 @@ To find optimal levels of strength and extracton for your coffee and preferences
  A. Use more coffee to make your coffee stronger.<br> 
  B. Use less coffee to make your coffee weaker 
 3. Use the flavor compass to optimize extraction. You can optimize extraction in either of these ways:<br> 
- A. Extract more: 
-  a. 
+ A. Extract more:<br>
+  a.<br>
  B. Extract less: 
-  a.
-Manipulating the variables 
+  a.<br>
