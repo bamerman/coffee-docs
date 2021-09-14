@@ -3,4 +3,4 @@ Coffee docs houses everything I've learned and documented about coffee, includin
 
 [Coffee basics]()<br>
 &nbsp; [Where coffee comes from](where-coffee-comes-from.md)<br>
-&nbsp; [What is coffee brewing](what-is-coffee-brewing.md)<br>
+&nbsp; [Principles of coffee brewing](principles-of-coffee-brewing.md)<br>
