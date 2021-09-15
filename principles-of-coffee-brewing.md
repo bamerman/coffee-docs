@@ -1,52 +1,57 @@
 # Principles of coffee brewing  
 
-A cup of coffee is a solution comprised of coffee particles (the solute) and water (the solvent).
+This document explains these aspects of coffee brewing: 
+- [What is coffee brewing](#what-is-coffee-brewing) 
+- [Variables of coffee brewing](#variables-of-coffee-brewing) 
+- [Physical properties of brewed coffee](#physical-properties-of-brewed-coffee)
+- [Putting it all together](#putting-it-all-together)
 
-The process of making a cup of coffee is called **coffee brewing**. Despite involving only two ingredients, coffee brewing is complex. 
+## What is coffee brewing   
+**Coffee brewing** is the process of making a brewed coffee, a solution comprised of coffee particles (the solute) and water (the solvent). 
 
-In this document, you'll learn about the coffee brewing process and its components affect how coffee tastes. 
-
-## What is coffee brewing       
 Brewing coffee involves three simple steps: 
-1. A coffee grinder breaks down coffee beans into smaller particles called **coffee grounds**. 
-2. Hot water contacts the coffee grounds. 
-3. A filter separates the coffee grounds from the resulting solution.  
+1. A coffee grinder breaks down whole coffee beans into smaller fragments called **coffee grounds**. 
+2. Hot water contacts the coffee grounds and absorbs some of its content. 
+3. A filter separates the hot water and absorbed coffee particles from the remaining coffee grounds.  
  
-You can brew coffee with a variety of **brewing methods**, which uniquely affect how coffee tastes. These most common brewing mehthods include: 
-- The **drip** brewing method involves an automatic coffee maker dispensing hot water over a filter basket filled with coffee grounds. 
-- The **pour over** brewing method involves manually pouring hot water over a funnel-shaped device lined with a paper filter. 
-- The **french press** brewing method involves steeping coffee grounds in hot water for several minutes, then pressing a filter through the solution. 
+You can brew coffee with a variety of **brewing methods**, including: 
+- **Drip** involves an automatic coffee maker dispensing hot water over a filter basket filled with coffee grounds. 
+- **Pour over** involves manually pouring hot water over a funnel-shaped device lined with a paper filter. 
+- **French press** involves steeping coffee grounds in hot water for several minutes, then pressing a filter through the solution. 
 
 ## Variables of coffee brewing 
-Coffee brewing involves the manipulation of these variables:
+Brewing coffee is simple, but brewing *good* coffee is not. The steps of coffee brewing involve five delicate variables that determine how brewed coffee tastes. The five variables of coffee brewing include: 
 
 **Ratio**<br>
-The ratio of coffee grounds to water affects coffee brewing. For now, know that this ratio-weight of coffee per unit of water-is called a **brewing recipe**. To keep brewing recipes consistent, baristas use scales to weigh out coffee and water in grams or ounces.
+The amount of ground coffee per unit of water matters. More coffee per unit of water used while brewing makes more concentrated brewed coffee. To keep your brewing recipe consistent, use a scale to weigh out coffee and water in grams (g). 
 
 **Grind size**<br>
-The particle size of ground coffee affects brewing. For now, know that a large **course grind** resists water, whereas a **fine grind** easily dissolve in water. Because grind size is a major brewing variable, baristas invest in high-quality coffee grinders that ensure a uniform grind size. 
+The particle size of ground coffee matters. A **course grind** resists water, whereas a **fine grind** easily dissolves in water. Use a burr grinders for a uniform grind size. 
 
 **Time**<br>
-How long water and coffee contact each other affects brewing. For now, know that the longer water contacts coffee grounds, the more water dissolves the coffee grounds. 
+How long water contacts coffee grounds matters. The longer water is in contact with ground coffee, the more water dissolves and absorbs ground coffee. 
+
 **Temperature:**<br> 
-Water temperature affects brewing. For now, know that the hotter water is, the more aggressively it dissolves coffee. 
+Water temperature matters. Hot water more aggressively dissolves and absorbs coffee grounds. Use filtered drinking water heated to 195-205 degrees Fahrenheit. 
 
 **Water quality**<br>
-The chemical makeup of water also affects brewing. For now, keep these two things in mind:
+The chemical makeup of water matters because:
 - Acidic water dissolves coffee more aggressively than basic water does. 
 - Water high in calcium and magnesium dissolves coffee more aggressiv
 
 ## Physical properties of brewed coffee 
-Even the slightest changes to any of these brewing variables dramatically change the physical properties of brewed coffee.
+But *how* do the variables of coffee brewing determine the taste of brewed coffee? 
 
-The physical properites of brewed coffee include: 
+Even the slightest changes to any of the brewing variables dramatically change the physical properties of brewed coffee, which include:
 
 - **Strength** refers to the concentration of coffee particles per unit of water in brewed coffee. Important features of strength include: 
     - Brewed coffee generally tastes best at a concentration of 1 part coffee per 14 parts water.   
     - Coffee professionals accurately measure the strength of brewed coffee with a refractometer, which determines the **total dissolved solids (TDS)** in a solution.   
-- **Extraction** refers to the percentage of coffee grounds that water dissolves, or extracts, into the brewed solution. Calculate extraction with this formula: Extraction % = (Coffee grounds + water) - brewed coffee  / Coffee grounds + Water 
-
-Strength and extracton are important because they determine how brewed coffee tastes. See the flavor map below for the flavors associated with different levels of strength and extraction. 
+- **Extraction** refers to the percentage of coffee grounds that water dissolves, or extracts, into the brewed solution. Calculate extraction with this formula:
+```
+ Extraction [%] = (Weight of coffee grounds + water [g]) - Weight of brewed coffee [g] / Weight of coffee grounds + water [g]
+```
+Strength and extracton determine how brewed coffee tastes. To understand why, see the flavor map below for the flavors associated with different levels of strength and extraction. 
 
 <img src="principles-of-coffee-brewing/flavor map.png" 
      alt="flavor map"
@@ -55,7 +60,7 @@ Strength and extracton are important because they determine how brewed coffee ta
      align="right"/>
 
 ## Putting it all together  
-The flavor map shows that appealing brewed coffee depends on optimal levels of strength and extraction. 
+The flavor map shows that good-tasting brewed coffee depends on optimal levels of strength and extraction. 
 
 To find optimal levels of strength and extracton for your coffee and preferences, use the flavor compass in these steps: 
 
