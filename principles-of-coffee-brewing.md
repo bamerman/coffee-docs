@@ -51,23 +51,27 @@ Strength and extracton are important because they determine how brewed coffee ta
 ## Putting it all together  
 The flavor map shows that appealing brewed coffee depends on finding optimal levels of strength and extraction. These optimal level change according to origin, roast, and personal preference. 
      
+
+To find optimal levels of strength and extracton for your coffee and preferences, use the **flavor map** and **flavor compass** figures in these steps: 
+
+1. **Find where your brew sits** on the flavor map. That spot is the center of the coffee compass.
+2. **Optimize strength** according to the flavor compass: 
+    - Use more coffee to make brewed coffee stronger.
+    - Use less coffee to make brewed coffee weaker.
+
 <img src="principles-of-coffee-brewing/flavor-compass.png" 
      alt="flavor compass"
      width="350"
      height="300"
      align="right"/>
-
-To find optimal levels of strength and extracton for your coffee and preferences, use the **flavor map** and **flavor compass** figures in these steps: 
-1. **Find where your brew sits** on the flavor map. That spot is the center of the coffee compass.
-2. **Optimize strength** according to the flavor compass: 
-    - Use more coffee to make brewed coffee stronger.
-    - Use less coffee to make brewed coffee weaker.
-3. **Optimize extraction** according to the flavor compass:
+     
+3. **Optimize extraction** according to the flavor compass:<br> 
     -To extract more:
         -Make grind finer. 
-        -Extend brew time. 
+        -Extend brew time.<br> 
     - To extract less:
         - Make grind courser.
         - Shorten brew time.
+     
 > **Note about extraction:** You can also change water temperature or chemical makeup; however, it is recommended that you keep these variables consistent. Most coffee professionals recommend filtered drinking water heated to 195-200 degrees Fahrenheit. 
 > > **Note about strength:** To alter strength, adjust the weight of coffee used while keeping the amount of water the same. This will minimize the effect of other variables, such as brew time. 
