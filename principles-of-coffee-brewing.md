@@ -40,16 +40,16 @@ The physical properites of brewed coffee include:
 - **Strength:** 
 - **Extraction:** 
 
-Strength and extracton are important because they determine how brewed coffee tastes. See the **flavor map** (Figure 1) below for the flavors associated with strength and extraction: 
-
-## Putting it all together  
-The flavor map shows that appealing brewed coffee depends on finding optimal levels of strength and extraction. These optimal level change according to origin, roast, and personal preference. 
+Strength and extracton are important because they determine how brewed coffee tastes. See the **flavor map** below for the flavors associated with strength and extraction. 
 
 <img src="principles-of-coffee-brewing/flavor map.png" 
      alt="flavor map"
      width="350"
      height="300"
      align="right"/>
+
+## Putting it all together  
+The flavor map shows that appealing brewed coffee depends on finding optimal levels of strength and extraction. These optimal level change according to origin, roast, and personal preference. 
      
 <img src="principles-of-coffee-brewing/flavor-compass.png" 
      alt="flavor compass"
@@ -57,17 +57,17 @@ The flavor map shows that appealing brewed coffee depends on finding optimal lev
      height="300"
      align="right"/>
 
-To find optimal levels of strength and extracton for your coffee and preferences, use the flavor map and **flavor compass** (Figure 2) in these steps: 
-1. Use the flavor map to find where your brew sits. That spot is the center of the coffee compass.
-2. Use the flavor compass to optimize strength. You can optimize strength in either of these ways: 
-&nbsp; A. Use more coffee to make brewed coffee stronger.<br> 
-&nbsp; B. Use less coffee to make brewed coffee weaker.<br>
-> **Notes:** To alter strength, adjust the weight of coffee used while keeping the amount of water the same. This will minimize the effect of other variables, such as 
-3. Use the flavor compass to optimize extraction. You can optimize extraction in one of two ways:<br> 
-&nbsp; A. Extract more:<br>
-&nbsp; &nbsp; a. Make grind finer. <br>
-&nbsp; &nbsp; b. Extend brew time. <br>
-&nbsp; B. Extract less:<br> 
-&nbsp; &nbsp; a. Make grind courser.<br>
-&nbsp; &nbsp; b. Shorten brew time.<br>
-> Note: You can also change water temperature or chemical makeup; however, it is recommended that you keep these variables consistent. Most coffee professionals recommend filtered drinking water heated to 195-200 degrees Fahrenheit. 
+To find optimal levels of strength and extracton for your coffee and preferences, use the **flavor map** and **flavor compass** figures in these steps: 
+1. **Find where your brew sits** on the flavor map. That spot is the center of the coffee compass.
+2. **Optimize strength** according to the flavor compass: 
+    - Use more coffee to make brewed coffee stronger.
+    - Use less coffee to make brewed coffee weaker.
+3. **Optimize extraction** according to the flavor compass:
+    -To extract more:
+        -Make grind finer. 
+        -Extend brew time. 
+    - To extract less:
+        - Make grind courser.
+        - Shorten brew time.
+> **Note about extraction:** You can also change water temperature or chemical makeup; however, it is recommended that you keep these variables consistent. Most coffee professionals recommend filtered drinking water heated to 195-200 degrees Fahrenheit. 
+> > **Note about strength:** To alter strength, adjust the weight of coffee used while keeping the amount of water the same. This will minimize the effect of other variables, such as brew time. 
