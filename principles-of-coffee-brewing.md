@@ -65,12 +65,12 @@ To find optimal levels of strength and extracton for your coffee and preferences
      align="right"/>
      
 3. **Optimize extraction** according to the flavor compass:<br> 
-    -To extract more:<br>
-        -Make grind finer.<br> 
-        -Extend brew time.<br> 
+    - To extract more:<br>
+        - Make grind finer.
+        - Extend brew time. 
     - To extract less:<br>
-        - Make grind courser.<br>
-        - Shorten brew time.<br>
+        - Make grind courser.
+        - Shorten brew time.
      
 > **Note about extraction:** You can also change water temperature or chemical makeup; however, it is recommended that you keep these variables consistent. Most coffee professionals recommend filtered drinking water heated to 195-200 degrees Fahrenheit. 
 > > **Note about strength:** To alter strength, adjust the weight of coffee used while keeping the amount of water the same. This will minimize the effect of other variables, such as brew time. 
