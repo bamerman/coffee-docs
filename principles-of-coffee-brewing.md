@@ -28,12 +28,12 @@ Brewing coffee is simple, but brewing *good* coffee is not. The steps of coffee 
 
 The variables of coffee brewing affect the flavor of brewed coffee by changing its physical properties. The physical properties of coffee include:  
 
-**Strength**<br>
+- **Strength:**<br>
 Strength refers to how many dissolved particles of coffee exist per unit of water in brewed coffee. Important points about strength include: 
-- You can accurately measure strength with a refractometer, which finds the percentage of **total dissolved solids (TDS)** in brewed coffee.
-- Appealing brewed coffee generally sits at 10% TDS.   
+    - You can accurately measure strength with a refractometer, which finds the percentage of **total dissolved solids (TDS)** in brewed coffee.
+    - Appealing brewed coffee generally sits at 10% TDS.   
 
-**Extraction**<br>
+- **Extraction:**<br>
 Extraction refers to the percentage of coffee grounds that water actually dissolves, or **extracts**, into the resulting brew. Visualize extraction % with this formula:
 ```
 brewed coffee / coffee grounds + water 
@@ -45,7 +45,7 @@ brewed coffee / coffee grounds + water
      align="right"/>
 
 ## Putting it all together  
-The goal of coffee brewing is to use the coffee brewing variables to adjust strength and extraction for optimal flavor. With this in mind, follow the steps below to brew appealing coffee: 
+The goal of coffee brewing is to use the coffee brewing variables to adjust strength and extraction for optimal flavor. With this in mind, brew appealing coffee with these steps: 
 
 1. **Find where your brew sits** on the flavor map. That spot is the center of the coffee compass.
 2. **Optimize strength** according to the flavor compass: 
