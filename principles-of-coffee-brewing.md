@@ -1,6 +1,6 @@
 # Principles of coffee brewing  
 
-In this document, you'll learn about the following coffee brewing topics: 
+In this document, you'll learn about these coffee brewing topics: 
 - [What is coffee brewing](#what-is-coffee-brewing) 
 - [Variables of coffee brewing](#variables-of-coffee-brewing) 
 - [Putting it all together](#putting-it-all-together)
