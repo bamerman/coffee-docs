@@ -1,9 +1,8 @@
 # Principles of coffee brewing  
 
-This document explains these aspects of coffee brewing: 
+In this document, you'll learn about the following coffee brewing topics: 
 - [What is coffee brewing](#what-is-coffee-brewing) 
 - [Variables of coffee brewing](#variables-of-coffee-brewing) 
-- [Physical properties of brewed coffee](#physical-properties-of-brewed-coffee)
 - [Putting it all together](#putting-it-all-together)
 
 ## What is coffee brewing   
@@ -11,48 +10,34 @@ This document explains these aspects of coffee brewing:
 
 Brewing coffee involves three simple steps: 
 1. A coffee grinder breaks down whole coffee beans into smaller fragments called **coffee grounds**. 
-2. Hot water contacts the coffee grounds and absorbs some of its content. 
-3. A filter separates the hot water and absorbed coffee particles from the remaining coffee grounds.  
+2. Hot water contacts the coffee grounds, dissolving and absorbing some of its content. 
+3. A filter separates the brewed solution from the remaining coffee grounds.  
  
-You can brew coffee with a variety of **brewing methods**, including: 
-- **Drip** involves an automatic coffee maker dispensing hot water over a filter basket filled with coffee grounds. 
-- **Pour over** involves manually pouring hot water over a funnel-shaped device lined with a paper filter. 
-- **French press** involves steeping coffee grounds in hot water for several minutes, then pressing a filter through the solution. 
+You can brew coffee with a variety of **brewing methods**, including:
+- **Drip:** Involves an automatic coffee maker dispensing hot water over a filter basket filled with coffee grounds. 
+- **Pour over:** Involves manually pouring hot water over a funnel-shaped device lined with a paper filter. 
+- **French press:** Involves steeping coffee grounds in hot water for several minutes, then pressing a filter through the solution. 
 
 ## Variables of coffee brewing 
-Brewing coffee is simple, but brewing *good* coffee is not. The steps of coffee brewing involve five delicate variables that determine how brewed coffee tastes. The five variables of coffee brewing include: 
+Brewing coffee is simple, but brewing *good* coffee is not. The steps of coffee brewing involve five delicate variables that affect the way brewed coffee tastes. The five variables of coffee brewing are: 
+- **Ratio:** Amount of ground coffee and water you use.
+- **Grind size:** Courseness or fineness of your coffee grind. 
+- **Time:** Amount of time water contacts the coffee grounds.
+- **Temperature:** Temperature of your brewing water.   
+- **Water quality:** Chemical makeup of your brewing water. 
 
-**Ratio**<br>
-The amount of ground coffee per unit of water matters. More coffee per unit of water used while brewing makes more concentrated brewed coffee. To keep your brewing recipe consistent, use a scale to weigh out coffee and water in grams (g). 
+The variables of coffee brewing affect the flavor of brewed coffee by changing its physical properties. The physical properties of coffee include:  
 
-**Grind size**<br>
-The particle size of ground coffee matters. A **course grind** resists water, whereas a **fine grind** easily dissolves in water. Use a burr grinders for a uniform grind size. 
+**Strength**<br>
+Strength refers to how many dissolved particles of coffee exist per unit of water in brewed coffee. Important points about strength include: 
+- You can accurately measure strength with a refractometer, which finds the percentage of **total dissolved solids (TDS)** in brewed coffee.
+- Appealing brewed coffee generally sits at 10% TDS.   
 
-**Time**<br>
-How long water contacts coffee grounds matters. The longer water is in contact with ground coffee, the more water dissolves and absorbs ground coffee. 
-
-**Temperature:**<br> 
-Water temperature matters. Hot water more aggressively dissolves and absorbs coffee grounds. Use filtered drinking water heated to 195-205 degrees Fahrenheit. 
-
-**Water quality**<br>
-The chemical makeup of water matters because:
-- Acidic water dissolves coffee more aggressively than basic water does. 
-- Water high in calcium and magnesium dissolves coffee more aggressiv
-
-## Physical properties of brewed coffee 
-But *how* do the variables of coffee brewing determine the taste of brewed coffee? 
-
-Even the slightest changes to any of the brewing variables dramatically change the physical properties of brewed coffee, which include:
-
-- **Strength** refers to the concentration of coffee particles per unit of water in brewed coffee. Important features of strength include: 
-    - Brewed coffee generally tastes best at a concentration of 1 part coffee per 14 parts water.   
-    - Coffee professionals accurately measure the strength of brewed coffee with a refractometer, which determines the **total dissolved solids (TDS)** in a solution.   
-- **Extraction** refers to the percentage of coffee grounds that water dissolves, or extracts, into the brewed solution. Calculate extraction with this formula:
+**Extraction**<br>
+Extraction refers to the percentage of coffee grounds that water actually dissolves, or **extracts**, into the resulting brew. Visualize extraction % with this formula:
 ```
- Extraction [%] = (Weight of coffee grounds + water [g]) - Weight of brewed coffee [g] / Weight of coffee grounds + water [g]
-```
-Strength and extracton determine how brewed coffee tastes. To understand why, see the flavor map below for the flavors associated with different levels of strength and extraction. 
-
+brewed coffee / coffee grounds + water 
+``` 
 <img src="principles-of-coffee-brewing/flavor map.png" 
      alt="flavor map"
      width="350"
@@ -60,9 +45,7 @@ Strength and extracton determine how brewed coffee tastes. To understand why, se
      align="right"/>
 
 ## Putting it all together  
-The flavor map shows that good-tasting brewed coffee depends on optimal levels of strength and extraction. 
-
-To find optimal levels of strength and extracton for your coffee and preferences, use the flavor compass in these steps: 
+The goal of coffee brewing is to use the coffee brewing variables to adjust strength and extraction for optimal flavor. With this in mind, follow the steps below to brew appealing coffee: 
 
 1. **Find where your brew sits** on the flavor map. That spot is the center of the coffee compass.
 2. **Optimize strength** according to the flavor compass: 
