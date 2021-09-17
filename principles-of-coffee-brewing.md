@@ -6,7 +6,7 @@ In this document, you'll learn about these coffee brewing topics:
 - [Putting it all together](#putting-it-all-together)
 
 ## What is coffee brewing   
-**Coffee brewing** is the process of making a brewed coffee, a solution comprised of coffee particles (the solute) and water (the solvent). 
+**Coffee brewing** is the process of making a brewed coffee, which is a solution comprised of coffee particles (the solute) and water (the solvent). 
 
 Brewing coffee involves three simple steps: 
 1. A coffee grinder breaks down whole coffee beans into smaller fragments called **coffee grounds**. 
@@ -36,51 +36,51 @@ Strength refers to how many dissolved particles of coffee exist per unit of wate
 - **Extraction:**<br>
 Extraction refers to the percentage of coffee grounds that water actually dissolves, or **extracts**, into the resulting brew. Visualize extraction % with this formula:
 ```
-brewed coffee / coffee grounds + water 
+brewed coffee / coffee grounds + water
 ``` 
+
+## Putting it all together  
+The goal of coffee brewing is to use the coffee brewing variables to adjust strength and extraction for optimal flavor. With this in mind, brew appealing coffee with these steps: 
+
 <img src="principles-of-coffee-brewing/flavor map.png" 
      alt="flavor map"
      width="350"
      height="300"
      align="right"/>
 
-## Putting it all together  
-The goal of coffee brewing is to use the coffee brewing variables to adjust strength and extraction for optimal flavor. With this in mind, brew appealing coffee with these steps: 
-
 1. **Choose a brewing method:**
     - Drip 
     - Pour over 
     - French press 
 
-3. **Start with the basics:** 
-    - Use filtered drinking water heated to 195-205 degrees Fahrenheit. 
+2. **Start with the basics:** 
+    - Use a consistant amount of filtered drinking water heated to 195-205 degrees Fahrenheit. 
+    - Begin with a 1:16 ratio of coffee to water. This equates to 1 oz. (28 g) of coffee per 16 fl. oz. of water. 
     - Choose a coarse grind for french press, a medium grind for pour over, and finer grind for drip. 
     - Aim for a brew time of 3-4 minutes. 
-
-4. **Assess the brewed coffee:**<br>
-Taste the brewed coffee and find where its flavor sits on the flavor map (figure 1). 
-
-5. **Adjust strength:**
-    - Use the flavor map to determine if the brewed coffee should be stronger or weaker. 
-        - If stronger, 
-        - If weaker, 
-
-6. **Optimize strength** according to the flavor compass: 
-    - Use more coffee to make brewed coffee stronger.
-    - Use less coffee to make brewed coffee weaker.
-> **Tip:** To alter strength, fix water weight and adjust coffee dose. This will minimize the effects of other variables, such as brew time. 
 
 <img src="principles-of-coffee-brewing/flavor-compass.png" 
      alt="flavor compass"
      width="350"
      height="300"
-     align="right"/>
-     
-3. **Optimize extraction** according to the flavor compass: 
-    - To extract more:
-        - Make grind finer.
+     align="right"/> 
+
+3. **Assess the brewed coffee:**<br>
+Taste the brewed coffee and find where its flavor sits on the flavor map (figure 1). 
+
+4. **Adjust strength:**
+Use the flavor map to determine if the brewed coffee should be stronger or weaker. 
+    - If too weak , use more coffee.
+    - If too strong, use less coffee.  
+    
+5. **Adjust extraction:**<br>
+Use the flavor map to determine if the brewed coffee is over or under extracted.
+    -If under extracted:
+        - Fine up grind. 
         - Extend brew time. 
-    - To extract less:
-        - Make grind courser.
-        - Shorten brew time.   
-> **Tip:** Use filtered drinking water heated to 195-200 degrees Fahrenheit.  
+    - If over extracted: 
+        - Coarsen grind.
+        - Reduce brew time. 
+        
+6. **Rinse and repeat** 
+Repeat these steps until you're happy with how your coffee tastes.       
