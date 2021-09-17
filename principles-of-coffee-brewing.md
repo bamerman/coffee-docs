@@ -47,8 +47,25 @@ brewed coffee / coffee grounds + water
 ## Putting it all together  
 The goal of coffee brewing is to use the coffee brewing variables to adjust strength and extraction for optimal flavor. With this in mind, brew appealing coffee with these steps: 
 
-1. **Find where your brew sits** on the flavor map. That spot is the center of the coffee compass.
-2. **Optimize strength** according to the flavor compass: 
+1. **Choose a brewing method:**
+    - Drip 
+    - Pour over 
+    - French press 
+
+3. **Start with the basics:** 
+    - Use filtered drinking water heated to 195-205 degrees Fahrenheit. 
+    - Choose a coarse grind for french press, a medium grind for pour over, and finer grind for drip. 
+    - Aim for a brew time of 3-4 minutes. 
+
+4. **Assess the brewed coffee:**<br>
+Taste the brewed coffee and find where its flavor sits on the flavor map (figure 1). 
+
+5. **Adjust strength:**
+    - Use the flavor map to determine if the brewed coffee should be stronger or weaker. 
+        - If stronger, 
+        - If weaker, 
+
+6. **Optimize strength** according to the flavor compass: 
     - Use more coffee to make brewed coffee stronger.
     - Use less coffee to make brewed coffee weaker.
 > **Tip:** To alter strength, fix water weight and adjust coffee dose. This will minimize the effects of other variables, such as brew time. 
